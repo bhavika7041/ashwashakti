@@ -1,0 +1,62 @@
+.b{
+    background-color: #edc905;
+	height: auto;
+	padding: 1%;
+	text-align: center;
+}
+.b1{
+	padding-left: 20%;
+	color: #ffff;
+	font-size: 20px;
+}
+.b2{
+	padding-left: 20%;
+	padding-right: 30%;
+	color: #ffff;
+	font-size: 20px;
+}
+.h{
+	color: #ea8212;
+}
+.section2{
+	background-image: url("https://www.ashwashaktipowder.com/include/template/aspnew1/asset/images/background1-min.jpg");
+}
+.section3{
+	background-color: #ffd904;
+}
+.prg{
+	font-size: 20px;
+	font-family: sans-serif;
+}
+.section4{
+	background-image: url("https://www.ashwashaktipowder.com/include/template/aspnew1/asset/images/Background-image.png");
+}
+.clr{
+	color: red;
+	font-weight: bold;
+	font-size: 1.75rem;
+}
+.f{
+	font-size: 1.75rem;
+	font-weight: bold;
+}
+.t{
+	text-align: justify;
+	font-size: 18px;
+	font-family: sans-serif;
+}
+.section5{
+	background-color: #ffd904;
+}
+.font-design{
+	font-weight: bolder;
+	font-size: 22px;
+}
+.section6{
+	color: #fe005a;
+	font-weight: bold;
+}
+.btn{
+	margin: 10px;
+	padding: 5px;
+}
